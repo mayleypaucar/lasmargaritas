@@ -23,31 +23,28 @@ body {
 /*===================SLIDER DE IMAGENES==========================*/
 
 .carousel-inner {
-    max-height:50rem !important;
+    max-height:30rem !important;
+    
 }
 
 /*===================SECCION NUESTRO IMAGEN==========================*/
 
 #img-equipo{
     max-height:40rem !important;
-    width:40%;
+    width:50%;
 }
 
-
-
-
-/*===================SECCION NUESTRO MAPA==========================*/
 #local {
-    margin-top:40px;
+    margin-top:20px;
     background-color: #b5c8f1;
     display:flex;
     justify-content:center;
-    padding-bottom: 100px; 
+    padding-bottom: 90px; 
 }
 
 .wrapper-local {
-    width:40%;
-    margin-left:100px;
+    width:90%;
+    margin-left:90px;
     padding-top:150px;
 }
 
@@ -83,7 +80,7 @@ body {
 
  #seccion-contacto{
     background-color: #4b6fe9;
-    min-height:900px;
+    min-height:800px;
     position:relative;
 }
 
