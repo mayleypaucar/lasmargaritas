@@ -36,7 +36,7 @@ body {
 
 #local {
     margin-top:20px;
-    background-color: #b5c8f1;
+    background-color: #1359f1;
     display:flex;
     justify-content:center;
     padding-bottom: 90px; 
@@ -61,7 +61,7 @@ body {
 }
 
 #numeros-local div:not(:last-child) {
-    border-right: 2px solid #1d1deb;
+    border-right: 2px solid #03031a;
   }
 #numeros-local div:not(:first-child) {
     padding-left:20px;
